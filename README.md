@@ -43,6 +43,8 @@ CÁCH CHẠY CODE:
   Ví dụ bạn muốn xóa muốn thư mục mới tạo trong ổ đĩa D của máy.bạn click vào computer có dấu + nó se xuất hiện ổ đĩa D.và tiếp tục click + ở bên cạnh ổ đĩa D nó sẽ xuất hiện các thư mục trong ổ đĩa D và sau đó bạn click chuột vào thư mục bạn cần xóa.Tiếp đến bạn click vào nút delete ở bên phải.
   
   Sau khi click nó sẽ xuất hiện dòng chữ Are you sure you want to Delete this file? Bạn nhấn yes để xóa no để hủy nếu bạn k muốn xóa.
+ 
+  LINK video hướng dẫn:https://www.youtube.com/watch?v=Hdzy0cGe5tk.
   
   
   
