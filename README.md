@@ -14,7 +14,8 @@ Mssv:17it067;
 
 Email:htkhanh.17it2@sict.udn.vn
 
-Cách chạy code:
+CÁCH CHẠY CODE:
+
   B1:tải project trên github về.
   
   B2:dùng tổ hợp phím Win+r và nhập cmd
